@@ -11,7 +11,7 @@ Depending on interest, versions for specific MSX (1/2) computers will be added t
 Status:
 
     Z8TY MCLZ8 working as a Z80 replacement for my DIY MSX. Boots to DOS2 using Carnivore 2 cartridge in MSX1, MSX2, 2+ and Turbo-R mode.
-    Used the Teensy 4.1 micro SD card slot to load the MSX BIOS roms.
+    Uses the Teensy 4.1 micro SD card slot to load the MSX BIOS roms.
 
 
 ![Z8TY MCLZ8 v1 PCB](pcb/z8ty-mclz8-800.png)
